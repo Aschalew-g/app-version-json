@@ -1,5 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "forceUpdate": true,
-  "packageName": "com.your.app.package"
+  "packageName": "com.example.merkato"
+
 }
