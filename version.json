@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "forceUpdate": true,
   "packageName": "com.example.merkato",
-  "maintenance": false
+  "maintenance": true
 
 }
 
