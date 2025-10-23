@@ -2,9 +2,10 @@
   "version": "1.0.1",
   "forceUpdate": true,
   "packageName": "com.betsoftnets.merkato",
-  "maintenance": true
+  "maintenance": false
 
 }
+
 
 
 
