@@ -1,0 +1,10 @@
+{
+  "sliders": {
+    "ids": ["127", "126", "94"],
+    "types": ["top-category", "top-category", "mid-category"]
+  },
+  "services": {
+    "ids": ["127", "169", "76", "126", "294", "293", "78", "94"],
+    "types": ["top-category", "end-category", "mid-category", "top-category", "end-category", "end-category", "mid-category", "mid-category"]
+  }
+}
